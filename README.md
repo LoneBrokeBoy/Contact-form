@@ -1,4 +1,4 @@
-![image](https://github.com/LoneBrokeBoy/Contact-form/assets/91601992/50cd6106-c2f5-431e-a7a3-c0c68f57a709)# Frontend Mentor - Contact form solution
+# Frontend Mentor - Contact form solution
 
 This is a solution to the [Contact form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 

@@ -53,11 +53,11 @@ Users should be able to:
 - Mobile-first workflow
 
 ### What I learned
-I learned Javascript and Input css element.
+I learned Javascript, text area css element and Input css element.
 To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<textarea name="var_1" rows="5" cols="10" wrap="soft"  id="message-input-id"></textarea>
 ```
 ```css
 #message-input-id {
